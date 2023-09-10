@@ -1,0 +1,6 @@
+streamlit_folium
+folium
+pandas
+pandas-gbq
+google-cloud-bigquery
+geopy
